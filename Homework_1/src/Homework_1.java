@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Number {
+public class Homework_1 {
     public static void main(String[] args) {
         triangularNumber(10);
         factorial(5);
